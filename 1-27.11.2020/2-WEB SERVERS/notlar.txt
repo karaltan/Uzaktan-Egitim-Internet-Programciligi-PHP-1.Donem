@@ -1,0 +1,12 @@
+web paketleri
+
+easy php-> apache server, php yorumlayıcı, veritabanı server(mysql)
+wamp server->apache server, php yorumlayıcı, veritabanı server(mysql)
+xampp server->apache server, php yorumlayıcı, veritabanı server(mysql)
+
+■ PHP License [<http://www.php.net>]
+■ Apache Software License [<http://httpd.apache.org>]
+■ MySQL Licenses [<http://www.mysql.com>]
+■ PhpMyAdmin License  [<http://www.phpmyadmin.net>]
+
+localhost=http://127.0.0.1/

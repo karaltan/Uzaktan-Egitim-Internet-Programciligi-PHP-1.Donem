@@ -1,0 +1,19 @@
+PROGRAMLAMA DÜNYASI(kod)
+
+
+10.SINIF-PROGRAMLAMA TEMELLERİ-CSHARP-CONSOLE APPLİCATİON
+11.SINIF-WEB TASARIM VE PROGRAMLAMA-HTML-JAVASCRIPT-ASP.NET-javaserverpagesJSP
+12.SINIF-İNTERNET PROGRAMCILIĞI-PHP
+
+MASAÜSTÜ PROGRAMLAMA - CHARP-JAVA-VİSUAL BASİC-JAVA....
+WEB PROGRAMLAMA      - TARAYICI PROGRAMLAMA
+başlangıç sayfaları-  index.html
+                      index.aspx
+                      index.php
+                      default.xxx
+url= adres demektir
+
+web programlama=tasarım+kodlama
+server=arka planda sürekli çalışan hizmetçi program
+web sayfaları server üzerinden çalıştırılırlar
+
