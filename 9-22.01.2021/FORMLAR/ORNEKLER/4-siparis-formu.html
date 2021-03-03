@@ -1,0 +1,57 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<body>
+   <form name="siparis" method="post" action="siparis.php">
+      <table>
+         <tr>
+            <td align="right"><b>Adınız Soyadınız:</b></td>
+            <td><input type="text" name="adisoyadi"></td>
+         </tr>
+         <tr>
+            <td align="right"><b>Adres:</b></td>
+            <td><input type="text" name="adres"></td>
+         </tr>
+         <tr>
+            <td align="right"><b>Telefon:</b></td>
+            <td><input type="text" name="telefon"></td>
+         </tr>
+      </table>
+      <fieldset>
+         <legend>Çorbalar</legend>
+         <input type="radio" name="corba" value="mercimek">Mercimek<br>
+         <input type="radio" name="corba" value="ezogelin">Ezogelin<br>
+         <input type="radio" name="corba" value="yayla">Yayla<br>
+         <input type="radio" name="corba" value="iskembe">İşkembe<br>
+      </fieldset>
+      <fieldset>
+         <legend>Yemekler</legend>
+         <table>
+            <tr>
+               <td>
+                  <input type="checkbox" name="corba" value="pilav">Pilav<br>
+                  <input type="checkbox" name="corba" value="taskebabi">Tas Kebabı<br>
+                  <input type="checkbox" name="corba" value="kuru">Kuru Fasulye<br>
+                  <input type="checkbox" name="corba" value="kavurma">Et Kavurma
+               </td>
+               <td>
+                  <input type="checkbox" name="corba" value="patlican">Patlıcan Kebap<br>
+                  <input type="checkbox" name="corba" value="doner">Döner<br>
+                  <input type="checkbox" name="corba" value="sote">Et Sote<br>
+                  <input type="checkbox" name="corba" value="turlu">Türlü<br>
+               </td>
+            </tr>
+         </table>
+      </fieldset>
+      <fieldset>
+         <legend>Tatlılar</legend>
+         <input type="radio" name="tatli" value="kadayif">Kadayıf<br>
+         <input type="radio" name="tatli" value="kemalpasa">Kemalpaşa<br>
+         <input type="radio" name="tatli" value="kunefe">Künefe<br>
+         <input type="radio" name="tatli" value="sutlac">Sütlaç<br>
+      </fieldset>
+      <input type="submit" name="siparis" value="Sipariş Ver">
+   </form>
+</body>
+</html>
